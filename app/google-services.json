@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "993991212647",
+    "firebase_url": "https://andfbsignin.firebaseio.com",
+    "project_id": "andfbsignin",
+    "storage_bucket": "andfbsignin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993991212647:android:c78f11a92424facb",
+        "android_client_info": {
+          "package_name": "com.example.work.googlefbsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993991212647-9aodkn01cco5jo6rm9d9pbbo4t4clcfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.work.googlefbsignin",
+            "certificate_hash": "689146d208e7a60d34fe21fc774891fd5d9251f5"
+          }
+        },
+        {
+          "client_id": "993991212647-6486qdg2dej86vtfi8m0391bghl4ruq1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.work.googlefbsignin",
+            "certificate_hash": "1f90ef059648413ccee2ddea4d721aaf03127e8c"
+          }
+        },
+        {
+          "client_id": "993991212647-mrla6f15ud06uhpor6h7kbe7e77kdbv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdan2bVITW03dRKJLvmOQCEDhsHVXUHc0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993991212647-mrla6f15ud06uhpor6h7kbe7e77kdbv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
